@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    background: linear-gradient(to left, #7afcfc, #a9d0fd);
+  }
+  .box {
+    background-color: #53c5c9;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    padding: 20px;
+    max-width:1000px;
+    position: relative;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+img{
+    border-radius: 20px;
+    width: 400px;
+}
+button{
+    align-items: center;
+    margin-left: 900px;
+    width: 80px;
+    height: 40px;
+    font-size: 20px;
+}
